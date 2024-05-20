@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+This Module contains a Flask Application
+"""
 
 from flask import Flask
 
